@@ -1,0 +1,4 @@
+// 这里是全局CSS函数，可全局调用
+@mixin center($h){
+    width: $h;
+}
